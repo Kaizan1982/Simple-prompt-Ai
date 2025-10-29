@@ -1,0 +1,78 @@
+{
+  "title": "Golden Hour Urban Portrait",
+  "description": "A cinematic golden-hour portrait of a beautiful woman standing in an urban architectural setting with intense warm sunlight illuminating her silhouette.",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "gender": "female",
+    "age_range": "mid 25s",
+    "pose": "standing sideways, turning her head slightly towards the camera",
+    "expression": "calm, confident, introspective",
+    "physical_features": {
+      "skin": "brown warm, soft natural complexion",
+      "eyes": "neutral expression, subtle gaze towards viewer",
+      "hair": "long black wavy hai catching sunlight",
+      "makeup": "minimal, natural look"
+    },
+    "clothing": {
+      "style": "casual chic layered autumn/winter look by designer Christian Dior",
+      "top": "dark turtleneck",
+      "outerwear": "oversized textured wool coat",
+      "color_palette": "earthy tones (brown, dark grey, muted neutral)"
+    }
+  },
+  "scene": {
+    "environment": "indoors within a modern architectural space, possibly an airport, terminal, or glass-walled building",
+    "time_of_day": "sunset (golden hour)",
+    "background_elements": [
+      "glass panels",
+      "blurred reflections",
+      "soft shadows and light streaks"
+    ]
+  },
+  "lighting": {
+    "style": "strong backlighting",
+    "direction": "sunlight shining from behind the subject, producing a radiant halo effect",
+    "mood": "warm, cinematic, dramatic, nostalgic",
+    "color_temperature": "rich golden and amber tones",
+    "visual_effects": [
+      "lens flare",
+      "bokeh light orbs",
+      "soft haze"
+    ]
+  },
+  "photography": {
+    "composition": "vertical portrait, subject centered slightly to the left",
+    "depth_of_field": "shallow, blurred background",
+    "camera_angle": "eye-level",
+    "lens": "50mm or 85mm portrait lens equivalent",
+    "style_keywords": [
+      "cinematic portrait",
+      "editorial",
+      "fine art photography",
+      "moody atmosphere"
+    ],
+    "color_grading": [
+      "warm film tones",
+      "matte finish",
+      "soft contrast"
+    ]
+  },
+  "mood_keywords": [
+    "cinematic",
+    "serene",
+    "reflective",
+    "urban elegance",
+    "warm solitude"
+}, 
+"text": {
+"tex_element_in_bottom_right_corner": "kanji carachter"
+}, 
+  ],
+  "negative_prompt": [
+    "cold lighting",
+    "harsh shadows on face",
+    "busy or distracting background",
+    "overexposed highlights",
+    "unnatural skin smoothing"
+  ]
+}
