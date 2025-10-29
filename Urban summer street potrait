@@ -1,0 +1,90 @@
+{
+  "title": "Urban Summer Street Portrait",
+  "description": "A vibrant street-style portrait of a young woman outdoors on a sunny day, captured from a low angle with a bold blue sky behind her.",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "gender": "female",
+    "age_range": "early 25s",
+    "pose": "standing confidently, looking slightly upward toward the sky",
+    "expression": "happy,calm, self-assured, stylish",
+    "physical_features": {
+      "skin": "brown warm complexion with natural sunlight highlights",
+      "hair": "dark hair styled in a casual with loose strands",
+      "lips": "bold red lipstick",
+      "accessories": [
+        "stylish sunglasses by Berry Barton",
+        "small pearl drop earrings",
+        "layered silver necklaces"
+      ]
+    },
+    "clothing": {
+      "style": "modern casual streetwear by designer Giorgio Amani",
+      "top": "white fitted camisole or crop top",
+"bottom": "Calluna Long Pants Grey Checked patterned", 
+      "bag": "matching checkered shoulder bag",
+      "color_palette": [
+        "black",
+        "white",
+        "silver"
+      ]
+    }
+  },
+  "scene": {
+    "environment": "city street under clear blue sky",
+    "time_of_day": "midday",
+    "background_elements": [
+      "urban signage",
+      "storefronts",
+      "slightly blurred distant buildings"
+    ],
+    "atmosphere": "bright, lively, summery"
+  },
+  "lighting": {
+    "style": "strong direct sunlight",
+    "direction": "top-down lighting casting clean shadows",
+    "mood": "vibrant, energetic, fresh",
+    "color_temperature": "cool to neutral with rich blue sky",
+    "visual_effects": [
+      "crisp shadows",
+      "high contrast",
+      "sunlit highlights on skin and accessories"
+    ]
+  },
+  "photography": {
+    "composition": "low-angle shot for dynamic perspective subject centered slightly to the left",
+    "depth_of_field": "moderate, subject in sharp focus with subtly blurred background",
+    "camera_angle": "low angle upward",
+    "lens": "35mm or 50mm for street fashion portrait",
+    "style_keywords": [
+      "street fashion photography",
+      "editorial",
+      "summer lifestyle",
+      "film-inspired",
+      "youthful energy"
+    ],
+    "color_grading": [
+      "vibrant colors",
+      "high contrast",
+      "slightly cool tones",
+      "clean modern finish"
+    ]
+  },
+  "mood_keywords": [
+    "confident",
+    "fresh",
+    "stylish",
+    "urban chic",
+    "summertime freedom"
+}, 
+"text": {
+"text_element_bottom_right_corner": "kanji carachter"
+}, 
+  ],
+  "negative_prompt": [
+    "dull or cloudy sky",
+    "unflattering shadows on face",
+    "no sunglasses",
+    "overexposed highlights",
+    "crowded or messy background"
+  ]
+}
