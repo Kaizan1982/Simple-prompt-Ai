@@ -63,10 +63,6 @@
     "reflective",
     "urban elegance",
     "warm solitude"
-}, 
-"text": {
-"tex_element_in_bottom_right_corner": "kanji carachter"
-}, 
   ],
   "negative_prompt": [
     "cold lighting",
