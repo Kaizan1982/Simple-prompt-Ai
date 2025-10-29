@@ -1,0 +1,67 @@
+{
+  "title": "Ethereal Morning Portrait",
+  "description": "A soft, dreamy portrait of a young  woman sitting by a sunlit window, reading a novel with warm morning light casting lace-patterned shadows across her face and her own shadow faintly visible on the bedroom wall.",
+  "subject": {
+    "gender": "female",
+    "age_range": "early 25s",
+    "pose": "her face gently looks at the camera, one hand holding a novel",
+    "expression": "calm, thoughtful, slightly melancholic",
+    "physical_features": {
+      "skin": "Natural brown skin with the delicate characteristics of Southeast Asian women",
+      "eyes": "black eyes with reflective catch-light",
+      "hair": "shoulder-length black hair that is slightly wavy softly illuminated by sunlight",
+      "lips": "natural rose-tinted lips"
+    },
+    "clothing": {
+      "type": "soft vintage-style blouse",
+      "fabric": "light, airy, textured lace or chiffon",
+      "color_palette": "white or off-white"
+    }
+  },
+  "scene": {
+    "environment": "cozy indoor setting by a window",
+    "time_of_day": "early morning",
+    "props": [
+      "delicate lace fabric or veil partially covering the face",
+      "Novel book or flower arrangement in the foreground"
+    ],
+    "background": "blurred window view with soft sunlight leaking through"
+  },
+  "lighting": {
+    "style": "soft natural sunlight",
+    "direction": "light streaming from one side, creating lace shadow patterns on the face",
+    "mood": "warm, intimate, dreamy, nostalgic",
+    "color_temperature": "airy whites, powder blues, peach tones, dreamy filmic warmth."
+  },
+  "photography": {
+    "lens": "50mm or 45mm portrait lens equivalent",
+    "depth_of_field": "very shallow, bokeh foreground and background",
+    "composition": "tight vertical framing, subject centered",
+    "style": [
+      "fine art portrait",
+      "vintage film aesthetic",
+      "soft focus"
+    ],
+    "camera_effects": [
+      "lens flares",
+      "light leaks",
+      "matte finish",
+      "cinematic bokeh"
+    ]
+  },
+  "mood_keywords": [
+    "ethereal",
+    "soft",
+    "romantic",
+    "nostalgic",
+    "morning quiet",
+    "intimate"
+], 
+  "negative_prompt": [
+    "harsh shadows",
+    "overly sharp image",
+    "distracting background",
+    "unnatural skin texture",
+    "bold colors"
+  ]
+}
