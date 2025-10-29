@@ -1,0 +1,77 @@
+{
+  "title": "Heavenly Angel in the Clouds",
+  "prompt": {
+    "subject": {
+      "type": "angel",
+      "gender": "female",
+      "pose": "flying gracefully through the clouds",
+      "expression": "calm, noble, divine focus",
+      "wings": {
+        "size": "very large",
+        "shape": "layered and feathered",
+        "color": "white and gold",
+        "position": "wings fully spread and lifted"
+      },
+      "clothing": {
+        "style": "ornate armor",
+        "materials": ["gold", "silver", "silk fabric"],
+        "details": ["engraved chestplate", "layered skirt", "flowing fabric"],
+        "color_palette": ["gold", "silver", "soft white", "light beige"]
+      },
+      "accessories": {
+        "item": "golden staff",
+        "design": "ornate, celestial, intricate carvings"
+      },
+      "hair": {
+        "length": "long",
+        "color": "blonde",
+        "motion": "flowing with the wind"
+      }
+    },
+    "environment": {
+      "setting": "heavenly sky",
+      "atmosphere": "majestic and divine",
+      "clouds": {
+        "density": "thick and voluminous",
+        "style": "dramatic, painterly, multi-layered",
+        "lighting_interaction": "clouds illuminated with soft god rays"
+      }
+    },
+    "lighting": {
+      "primary": "soft, ethereal sunlight",
+      "effects": ["backlighting", "rim light on wings and armor"],
+      "mood": "heavenly, awe-inspiring"
+    },
+    "camera": {
+      "angle": "slightly low angle",
+      "shot_type": "full-body",
+      "focus": "angel centered and prominent",
+      "depth_of_field": "sharp on subject, clouds softly blurred"
+    },
+    "art_style": {
+      "genre": ["epic", "mythological"],
+      "influences": ["renaissance painting", "high-realistic art"],
+      "render_style": ["ultra-detailed", "cinematic", "realistic"],
+      "quality": "8k highly detailed"
+    },
+    "color_palette": ["gold", "silver", "white", "cream", "light gray", "sky blue"],
+    "mood": ["divine", "majestic", "heroic", "celestial"],
+    "optional_variations": {
+      "staff_replacement_options": ["sword", "spear", "halo", "book of light"],
+      "wing_styles": ["angelic pure white", "fiery phoenix wings", "crystal wings"],
+      "background_options": ["sunset sky", "heavenly temple", "starlit cosmos"]
+    }
+"text": {
+"text_element_bottom_right_corner": "kanji carachter"
+}, 
+  },
+  "negative_prompt": {
+    "exclude": [
+      "dark demonic elements",
+      "distorted anatomy",
+      "low resolution",
+      "cartoonish style",
+      "sci-fi or cyberpunk elements"
+    ]
+  }
+}
