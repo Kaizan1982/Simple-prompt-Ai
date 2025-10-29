@@ -1,0 +1,82 @@
+{
+  "title": "Moody Fashion Editorial Portrait",
+  "description": "A cinematic, high-fashion portrait of a woman in a dark outfit, captured in a dramatic, low-light environment with a soft spotlight on her face.",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "gender": "female",
+    "age_range": "mid 23s",
+    "pose": "standing with body slightly angled, gazing directly at the camera",
+    "expression": "happy,confident, poised, subtle intensity",
+    "physical_features": {
+      "skin": "smooth warm complexion with soft highlight on cheekbones",
+      "eyes": "defined eyes with a calm yet piercing gaze",
+      "hair": "short black bob haircut with loose strands framing the face",
+      "makeup": "elegant soft-glam makeup, warm-toned eyeshadow, natural glossy lips",
+      "accessories": [
+        "gold hoop earrings"
+      ]
+    },
+    "clothing": {
+      "style": "minimalist luxury",
+      "top": "high-neck black long-sleeve top",
+      "color_palette": [
+        "black",
+        "gold",
+        "warm neutrals"
+      ]
+    }
+  },
+  "scene": {
+    "environment": "indoor social or fashion event with blurred attendees in the background",
+    "location_type": "fashion show, art gallery, or industry event",
+    "background_elements": [
+      "people out of focus",
+      "soft ambient lighting"
+    ],
+    "atmosphere": "exclusive, refined, modern fashion-forward"
+  },
+  "lighting": {
+    "style": "cinematic low-key lighting",
+    "direction": "single directional light from the side/front, casting soft shadows",
+    "mood": "dramatic, elegant, moody",
+    "color_temperature": "warm neutral tones with golden highlights",
+    "visual_effects": [
+      "soft contrast",
+      "face spotlight",
+      "gentle shadows for sculpted facial structure"
+    ]
+  },
+  "photography": {
+    "composition": "tight portrait shot, centered subject",
+    "depth_of_field": "shallow, blurred background",
+    "camera_angle": "slightly above eye-level",
+    "lens": "85mm or 50mm portrait lens equivalent",
+    "style_keywords": [
+      "fashion editorial",
+      "cinematic portrait",
+      "glamour photography",
+      "luxury minimalism",
+      "K-fashion inspired", 
+    ],
+    "color_grading": [
+      "moody fashion tones",
+      "warm contrast",
+      "matte finish",
+      "cinematic color profile"
+    ]
+  },
+  "mood_keywords": [
+    "sophisticated",
+    "mysterious",
+    "elegant",
+    "high-fashion",
+    "exclusive"
+  ],
+  "negative_prompt": [
+    "overly bright lighting",
+    "busy or distracting background",
+    "washed-out colors",
+    "unflattering shadows",
+    "casual or messy styling"
+  ]
+}
