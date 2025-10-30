@@ -1,0 +1,66 @@
+{
+  "prompt_template_name": "romantic_travel_couple_photography",
+  "description": "A warm, cinematic photograph of a young javanese couple sharing an intimate moment during their travels.",
+  "subject_detail": {
+"gender": "male", 
+"identity_reference": "use reference photo",
+"age_range": "27s to early 30s", 
+"skin": "warm olive", 
+"hair": "shoulder length black hair slightly wet and somewhat tangled"
+"gender": "female", 
+"identity_reference": "use reference photo", 
+"age_range": "23s to early 25s", 
+"skin": "warm olive", 
+"hair": "short, slightly wavy reddish brown hai"
+}, 
+"prompt": {
+    "main_subject": "a young couple standing close together, smiling as the man gently kisses the woman's forehead",
+    "setting": "urban street reflected through a café or shop window with golden bokeh and soft lighting",
+    "mood": "warm, happy,romantic, nostalgic, intimate",
+    "style": "cinematic photography, soft focus, shallow depth of field, backlit with golden hour tones",
+    "details": {
+      "lighting": "soft ambient light with warm tones, creating reflections and glow through a glass surface",
+      "clothing": "casual travel jackets, backpacks, neutral outdoor tones",
+      "props": "vintage camera in the man’s hand",
+      "composition": "portrait-oriented shot, captured through a reflective glass window with natural light and blurred reflections",
+      "color_palette": "golden, amber, brown, soft beige, and subtle orange hues"
+    },
+    "camera_settings": {
+      "lens": "50mm prime lens",
+      "aperture": "f/1.8 for soft background blur",
+      "lighting_setup": "natural light, golden hour, diffused highlights",
+      "film_style": "vintage film grain, cinematic tones"
+    }
+  },
+"text": {
+"text_element": "Clarissa", 
+"use_font": "Gabrilya", 
+"palace": "bottom right corner"
+}, 
+  "negative_prompt": {
+    "exclude": [
+      "overexposed lighting",
+      "cartoonish style",
+      "harsh shadows",
+      "blurry faces",
+      "unnatural colors"
+    ]
+  },
+  "output_preferences": {
+    "aspect_ratio": "3:4",
+    "resolution": "high",
+    "style_strength": "0.8",
+    "realism": "photorealistic",
+    "emotion_focus": "connection, warmth, intimacy"
+  },
+  "tags": [
+    "romantic",
+    "couple",
+    "travel",
+    "photography",
+    "cinematic",
+    "golden hour",
+    "reflection",
+    "vintage camera"
+  ]
+}
