@@ -1,0 +1,77 @@
+{
+  "title": "Vintage Cyber-Fashion Portrait",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "type": "person",
+    "gender": "female",
+    "age": "23s to early 25s",
+    "ethnicity": "unspecified / androgynous look",
+    "pose": "close-up portrait, facing camera, intense gaze",
+    "expression": "neutral, confident, slightly mysterious"
+  },
+  "appearance": {
+    "hair": {
+      "style": "short, wavy bob with bangs",
+      "color": "platinum brown"
+    },
+    "eyes": {
+      "makeup": "dark eyeliner, soft eyeshadow"
+    },
+    "accessories": [
+      {
+        "type": "sunglasses",
+        "shape": "round",
+        "lens_color": "orange / amber",
+        "frame_color": "gold"
+      },
+      {
+        "type": "ear accessories",
+        "details": "long beaded earring on one side"
+      }
+    ]
+  },
+  "clothing": {
+    "top": "embroidered mandarin-collar jacket",
+    "color_palette": ["yellow", "red"],
+    "style": "East Asian fusion, vintage streetwear"
+  },
+  "environment": {
+    "setting": "dimly lit indoor scene",
+    "background": "dark, blurred / bokeh",
+    "mood": "moody, cinematic, retro"
+  },
+  "lighting": {
+    "type": "soft, low key",
+    "tone": "warm with subtle shadows",
+    "style": "cinematic portrait lighting"
+  },
+  "color_style": {
+    "palette": ["warm yellows", "oranges", "earthy tones"],
+    "grading": "film-style color grading, slightly desaturated shadows"
+  },
+  "camera": {
+    "shot_type": "close-up portrait",
+    "lens": "50mm or 85mm equivalent",
+    "depth_of_field": "shallow background blur"
+  },
+  "art_style": {
+    "era_influence": "70s retro aesthetic",
+    "genres": ["cinematic", "fashion editorial", "neo-noir"],
+    "keywords": [
+      "vintage street fashion",
+      "moody portrait",
+      "retro futurism",
+      "soft grain",
+      "film photograph look"
+    ]
+  },
+  "text_elements": {
+    "presence": true,
+    "style": "minimal Japanese typography",
+"placement": "JI"
+  },
+  "output_format": {
+    "ratio": "3:4 or 4:5 portrait",
+    "resolution": "high resolution"
+  }
+}
