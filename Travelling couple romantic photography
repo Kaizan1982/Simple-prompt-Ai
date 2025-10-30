@@ -31,12 +31,7 @@
       "lighting_setup": "natural light, golden hour, diffused highlights",
       "film_style": "vintage film grain, cinematic tones"
     }
-  },
-"text": {
-"text_element": "Clarissa", 
-"use_font": "Gabrilya", 
-"palace": "bottom right corner"
-}, 
+  }, 
   "negative_prompt": {
     "exclude": [
       "overexposed lighting",
