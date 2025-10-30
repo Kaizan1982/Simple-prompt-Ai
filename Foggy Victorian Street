@@ -1,0 +1,71 @@
+{
+  "title": "Foggy Victorian Street Scene",
+  "description": "A cinematic night-time scene featuring a mysterious figure walking alone on a fog-covered Victorian street.",
+  "scene": {
+    "setting": "Victorian-era cobblestone street at night",
+    "environment": [
+      "dense fog",
+      "wet cobblestone road",
+      "narrow alleyway",
+      "old-fashioned street lamps"
+    ],
+    "architecture": [
+      "brick buildings",
+      "wrought iron railings",
+      "gas lamp posts",
+      "shop signs"
+    ]
+  },
+  "subject": {
+    "identity_reference": "use reference photo", 
+"type": "human silhouette",
+    "position": "center of frame, walking away from viewer",
+    "appearance": {
+      "clothing": ["long trench coat", "wide-brimmed hat"],
+      "notable_features": ["silhouette only, no face visible"],
+      "props": ["cane or umbrella (optional)"]
+    }
+  },
+  "lighting": {
+    "style": "cinematic",
+    "sources": [
+      {
+        "type": "lamp posts",
+        "color": "Reddish orange,warm orange glow",
+        "intensity": "soft and diffused through fog"
+      }
+    ],
+    "contrast": "low contrast due to heavy fog",
+    "color_palette": ["teal", "deep blue", "warm orange", "red highlights"]
+  },
+  "mood_and_tone": {
+    "atmosphere": ["mysterious", "noir", "eerie", "moody"],
+    "keywords": [
+      "cinematic",
+      "Victorian noir",
+      "loneliness",
+      "mystery",
+      "foggy night",
+      "street horror aesthetic"
+    ]
+  },
+  "composition": {
+    "camera_angle": "eye-level, behind the subject",
+    "depth": "long depth with lamps vanishing into the fog",
+    "framing": "central composition",
+    "focus": "soft due to fog; depth fading into mist"
+  },
+  "style": {
+    "genre": ["film noir", "cinematic realism"],
+    "optional_styles": [
+      "Bladerunner neo-noir",
+      "Sherlock Holmes aesthetic",
+      "Gothic thriller",
+      "steampunk"
+    ]
+},
+  "quality": {
+    "resolution": "8K highly detailed",
+    "render": ["photorealistic", "volumetric lighting", "high dynamic range"]
+  }
+}
