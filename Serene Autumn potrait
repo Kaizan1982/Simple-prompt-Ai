@@ -1,0 +1,31 @@
+{
+  "prompt": "A serene autumn scene, a young Javanese woman sits on a wooden park bench surrounded by maple trees with leaves falling. The woman has light brown hair and is wearing a Givenchy Autumn Dress. She is peacefully reading a book and smiling gently. The scene is softly lit with warm sunlight filtering through the mapel leaves falling, creating a dreamy and romantic atmosphere with a shallow depth of field and blurred mapel leaves falling in the foreground. The background shows a lush green park with a calm, bright ambiance.)(",
+  "style": {
+    "lighting": "soft natural sunlight",
+    "mood": "happy,peaceful, dreamy, romantic",
+    "composition": "centered subject framed by out-of-focus mapel blossom in foreground",
+    "camera": {
+      "lens": "85mm portrait lens",
+      "aperture": "f/1.8",
+      "focus": "subject in sharp focus, background and foreground softly blurred"
+    },
+    "art_style": "fine art photography, cinematic, ethereal aesthetic"
+  },
+  "subject": {
+    "gender": "female",
+    "pose": "sitting on bench, holding open book, looking down at pages with soft smile",
+    "clothing": "Givenchy Autumn Dress",
+    "setting": "outdoor park with maple leaf in full falling"
+  },
+"text": {
+"text_element": "Clarissa", 
+"font_ttf": "Gabrilya", 
+"palaces": "bottom right corner"
+}, 
+  "atmosphere": {
+    "season": "serene autumn",
+    "time_of_day": "morning or early afternoon",
+    "weather": "clear and sunny",
+    "feeling": "tranquil, gentle, introspective"
+  }
+}
