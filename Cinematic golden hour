@@ -1,0 +1,48 @@
+{
+"prompt_template": {
+"description": "A cinematic portrait of a beautiful javanese woman sitting outdoors near a window, bathed in warm golden sunlight during sunset. The scene has a cozy, elegant, and reflective mood with a soft, glowing light ambiance.)(",
+"subject": {
+"gender": "female",
+"age_range": "23s to early 25s",
+"hair": "long golden brown hai", 
+"skin": "warm olive",
+"pose": "sitting gracefully with one arm resting on a table and head tilted slightly",
+"expression": "happy, confident, and softly contemplative",
+"attire": {
+"type": "satin slip dress by Designer Donatella Versace",
+"color": "ivory or light cream",
+"style": "minimalist, elegant, spaghetti straps"
+},
+"accessories": ["small hoop earrings"]
+},
+"environment": {
+"setting": "outside the cafe or restaurant with a cup of latte coffee, flower vase, notebook on a round table and chairs visible",
+"lighting": "golden hour sunlight streaming through the window, creating warm highlights and reflections",
+"mood": "intimate, luxurious, serene"
+},
+"camera": {
+"camera_lens": "Canon EOS R5",
+"angle": "eye-level shot",
+"composition": "framed through the window with reflections visible",
+"focus": "sharp focus on subject’s face, soft background bokeh",
+"lighting_details": "soft, directional golden light from the side"
+},
+"style": {
+"photography_style": "editorial, cinematic, fashion portrait",
+"color_palette": ["gold", "amber", "ivory", "soft brown"],
+"tone": "warm, glowing, natural",
+"aesthetic": "modern luxury with minimalism"
+},
+"text": {
+"text_element": "Clarissa", 
+"font": "Gabrilya", 
+"palace": "bottom right corner"
+}, 
+"parameters": {
+"aspect_ratio": "3:4",
+"resolution": "high",
+"lighting_type": "natural golden hour light",
+"depth_of_field": "shallow"
+}
+}
+}
