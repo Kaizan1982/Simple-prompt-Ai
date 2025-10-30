@@ -1,0 +1,90 @@
+{
+  "title": "Pensive Beautiful Woman in Café through Window Reflection",
+  "description": "A cinematic portrait of a beautiful woman sitting in a café while enjoying a cigarette, seen through a reflective glass window that blends interior and exterior scenes in warm light.)(",
+  "prompt": {
+    "scene": {
+      "location": "European-style café",
+      "environment": {
+        "lighting": "warm natural sunlight, golden hour glow",
+        "ambience": "quiet, reflective, soft, nostalgic",
+        "details": [
+          "wooden chairs and tables",
+          "white coffee cups on saucers,flower vase, open laptop",
+          "Ducati classic motorbike and two classic VW Combie cars visible outside through the window",
+          "pedestrians and the architecture of Gothic city buildings blurred in the background"
+        ]
+      }
+    },
+    "subject": {
+      "gender": "female",
+     "age_range": "23s to early 25s", 
+      "pose": "sitting near the window, gazing outside thoughtfully",
+  "hair": "long, slightly wavy golden brown hair neatly styled, and slightly falling over her face, 
+Cool glasses on the head", 
+      "expression": "calm,happy, introspective, slightly melancholic",
+      "clothing": "eige fur coat, simple and elegant style from Crishtian Dior",
+      "position": "foreground, partially reflected in window glass"
+    },
+    "composition": {
+      "camera_angle": "eye-level shot from outside the café",
+      "focus": "subject’s face with soft background bokeh",
+      "depth_of_field": "shallow, emphasizing reflection layers",
+      "framing": "window reflections merge with indoor café elements",
+      "colors": "muted warm tones, soft contrast, natural palette of browns, golds, and beiges"
+    },
+    "style": {
+      "genre": "cinematic photography, lifestyle portrait",
+      "influences": [
+        "film still aesthetic",
+        "European café culture",
+        "urban solitude theme"
+      ],
+      "artistic_effects": [
+        "soft focus",
+        "lens flare from sunlight",
+        "reflections and transparency layers"
+      ]
+    },
+    "mood": {
+      "keywords": [
+        "happy", 
+        "melancholy",
+        "introspection",
+        "nostalgia",
+        "quiet moment",
+        "urban calm"
+      ],
+      "emotional_tone": "thoughtful and serene"
+    }
+  },
+"text": {
+"text_element": "Clarissa", 
+"ttf_font": "Gabrilya", 
+"text position": "bottom left corner"
+}, 
+  "negative_prompt": {
+    "exclude": [
+      "harsh shadows",
+      "artificial lighting",
+      "crowded scene",
+      "overexposed reflections",
+      "distracting background elements"
+    ]
+  },
+  "camera_settings": {
+    "lens_type": "50mm prime lens Canon EOS R5",
+    "aperture": "f/1.8",
+    "exposure": "soft natural light",
+    "composition_style": "rule of thirds, balanced reflections"
+  },
+  "intended_output": {
+    "format": "photorealistic image",
+    "resolution": "high",
+    "aspect_ratio": "3:4",
+    "style_variations": [
+      "film photography look",
+      "vintage color grading",
+      "moody portrait with reflections"
+    ]
+  }
+}
