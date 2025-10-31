@@ -1,0 +1,58 @@
+{
+  "subject": {
+    "description": "A beautiful young javanese woman sitting indoors, resting their head on their hand while looking directly at the camera",
+    "pose": "Seated with knees pulled close, one hand supporting the chin in a relaxed, thoughtful pose",
+    "clothing": "Simple short-sleeved shirt in a neutral or pastel tone",
+    "hairstyle": "Short, wavy hair with soft volume and natural texture",
+    "facial_features": {
+      "expression": "Calm and introspective",
+      "details": "Natural skin texture with subtle freckles"
+    }
+  },
+"subject_detail": {
+"identity_reference": "use reference photo", 
+ "age_range": "23s to early 25s"
+}, 
+  "environment": {
+    "setting": "Cozy indoor bedroom or private space",
+    "background": "Soft, minimal background with neutral tones and blurred edges",
+    "surroundings": "Subject appears framed between two vertical blurred foreground elements, creating a tunnel-like view"
+  },
+  "lighting": {
+    "type": "Soft natural lighting",
+    "direction": "Front-facing light illuminating the face evenly",
+    "mood": "Warm, calm, intimate"
+  },
+  "composition": {
+    "camera_angle": "Eye-level close-up shot",
+    "framing": "Centered subject framed through foreground elements for a cinematic tunnel effect",
+    "depth_of_field": "Shallow depth of field with strong focus on the eyes, blurred foreground and background",
+    "color_palette": ["warm beige", "soft browns", "neutral whites", "natural skin tones"]
+  },
+  "style": {
+    "visual_style": "Cinematic portrait photography",
+    "tone": "Soft, dreamy, natural",
+    "lens": "Medium focal length (50mm–85mm) with wide aperture (f/1.2–f/2)",
+    "inspiration": ["intimate editorial portrait", "natural light lifestyle photography"],
+    "mood_keywords": ["serene", "warm", "intimate", "soft", "thoughtful"]
+  },
+"text": {
+"text_element": Judas Iscariots", 
+"font": "Gabrilya", 
+"style": "transparent", 
+"places": "bottom left corner"
+}, 
+  "optional_modifiers": {
+    "enhancements": [
+      "subtle film grain",
+      "creamy bokeh",
+      "soft matte finish"
+    ],
+    "negative_prompts": [
+      "no harsh shadows",
+      "no cluttered background",
+      "no artificial-looking skin smoothing",
+      "no extra people"
+    ]
+  }
+}
