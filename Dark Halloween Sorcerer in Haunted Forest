@@ -1,0 +1,57 @@
+{
+  "title": "Dark Halloween Sorcerer in Haunted Forest",
+  "description": "A terrifying dark figure resembling a witch or spectral reaper stands in a foggy, haunted forest. The entity wears a tattered, twisted witch hat and has a body made of swirling black shadows and ethereal strands. Its glowing orange eyes and jagged, fiery grin pierce through the darkness. The creature holds a blazing jack-o’-lantern emitting sparks and embers that illuminate the mist around it. Orange particles drift through the air, enhancing the eerie and magical Halloween atmosphere.((",
+  "prompt": {
+    "main_subject": "Dark spectral witch-like creature",
+    "scene_environment": "Foggy haunted forest with scattered autumn leaves and glowing embers",
+    "lighting_style": "Cinematic low light with glowing orange illumination from the pumpkin",
+    "mood": [
+      "ominous",
+      "mystical",
+      "Halloween",
+      "dark fantasy"
+    ],
+    "color_palette": [
+      "black",
+      "dark blue-gray",
+      "glowing orange",
+      "amber red"
+    ],
+    "composition": {
+      "camera_angle": "dynamic mid-shot slightly from below",
+      "focus": "sharp focus on the creature’s glowing eyes and pumpkin, with blurred misty background",
+      "motion_elements": "flowing hair-like shadows, glowing sparks, swirling fog"
+    },
+    "art_style": {
+      "genre": "dark fantasy illustration",
+      "influences": [
+        "cinematic concept art",
+        "Halloween horror aesthetic",
+        "digital painting with realistic lighting"
+      ],
+      "details": [
+        "high contrast lighting",
+        "detailed texture on shadowy robes",
+        "subtle embers and particle effects"
+      ]
+    },
+    "optional_modifiers": [
+      "high resolution",
+      "ultra-detailed",
+      "4K quality",
+      "realistic lighting and shading",
+      "depth of field",
+      "volumetric fog"
+    ],
+}, 
+   "negative_prompt": [
+      "blurry details",
+      "cartoonish style",
+      "overexposed lighting",
+      "low resolution",
+      "extra limbs",
+      "text or watermark"
+    ]
+  },
+  "use_case": "For creating dark fantasy Halloween artwork, digital illustrations, or cinematic AI renderings."
+}
