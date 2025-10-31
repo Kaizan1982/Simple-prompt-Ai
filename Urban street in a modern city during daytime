@@ -1,0 +1,57 @@
+{
+  "prompt": {
+    "scene": {
+      "setting": "Urban street in a modern city during daytime",
+      "landmark": "A tall red-and-white communications tower in the background",
+      "environment_details": [
+        "surrounded by buildings",
+        "deep shadows contrasted with bright sunlight",
+        "bokeh light flares and dreamy reflections in foreground"
+      ]
+    },
+    "subject": {
+      "type": "A young woman walked on the crowded sidewalk with pedestrians.",
+"gender": "female", 
+"age_range": "18s to early 20s", 
+"hair": "short black hair bob", 
+      "appearance": {
+        "clothing": ["light-colored top", "plaid skirt", "black shoes", "white socks"],
+        "accessories": ["backpack"]
+      },
+      "pose": "walking forward across the crosswalk, illuminated by sunlight"
+    },
+    "style": {
+      "visual_style": [
+        "dreamy",
+        "ethereal",
+        "cinematic",
+        "soft-focus"
+      ],
+      "color_palette": [
+        "soft blues",
+        "pastel tones",
+        "light flares",
+        "lens-rainbow refractions"
+      ],
+      "lighting": "high contrast between bright sunlight and deep shadows, with colorful bokeh flares",
+      "mood": ["nostalgic", "whimsical", "serene"]
+    },
+    "camera": {
+      "angle": "low angle shot",
+      "lens": "wide aperture",
+      "focus": "shallow depth of field",
+      "effects": [
+        "lens flare",
+        "chromatic light bokeh",
+        "soft bloom"
+      ]
+    }
+  },
+  "negative_prompt": [
+    "no crowd",
+    "no cluttered background elements",
+    "no harsh realism",
+    "no grainy/low-quality artifacts",
+    "no distorted anatomy"
+  ]
+}
