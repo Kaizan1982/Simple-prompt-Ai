@@ -1,0 +1,55 @@
+{
+  "subject": {
+    "description": "A beautiful young javanese woman standing indoors near a window, looking outside with a happy expression",
+    "pose": "Right hand in pocket, left hand holding a cigarette with smoke billowing and he is really enjoying it, relaxed posture, leaning slightly",
+    "clothing": {
+      "top": "Oversized dark zip-up hoodie worn open over a casual graphic t-shirt by Crishtian Dior",
+      "bottom": "High-waisted light beige pants",
+      "accessories": "Subtle jewelry such as a necklace and small earrings"
+    },
+    "identity_reference": "use reference photo", 
+"gender": "female", 
+"age_range": "23s to early 25s"
+    "hairstyle": "long,Messy, casual bun with loose strands"
+  },
+  "environment": {
+    "setting": "Cozy indoor café or flower shop at night",
+    "decor": "Typical European pendant light that glows warm orange",
+    "window_view": "Neon city lights blurred in the background"
+  },
+  "lighting": {
+    "type": "Warm ambient lighting mixed with neon reflections",
+    "color_palette": ["warm pink", "soft orange", "subtle teal", "natural skin tones"],
+    "mood": "Soft, dreamy, cinematic"
+  },
+  "composition": {
+    "camera_angle": "Eye-level shot from outside the window looking in",
+    "framing": "Portrait orientation, subject centered",
+    "depth_of_field": "Shallow depth of field with soft bokeh background",
+    "details": "Window reflection visible, creating layered visual effect"
+  },
+  "style": {
+    "visual_style": "Cinematic photography",
+    "lens": "85mm or 50mm with wide aperture (f/1.2 – f/2),Canon EOS R5",
+    "inspiration": ["Wong Kar-wai", "urban night street photography", "romantic realism"],
+    "mood_keywords": ["nostalgic", "introspective", "calm", "soft", "urban romantic"]
+  },
+"text": {
+"text_element": "kanji carachter", 
+"places": "bottom right corner"
+}, 
+  "optional_modifiers": {
+    "enhancements": [
+      "film grain",
+      "soft glow",
+      "lens reflection",
+      "subtle vignette"
+    ],
+    "negative_prompts": [
+      "no distortion",
+      "no extra people in the foreground",
+      "no harsh lighting",
+      "no cluttered background"
+    ]
+  }
+}
