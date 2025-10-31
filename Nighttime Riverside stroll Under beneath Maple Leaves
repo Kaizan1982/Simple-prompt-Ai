@@ -1,0 +1,87 @@
+{
+  "title": "Nighttime Riverside stroll Under beneath Maple Leaves",
+  "description": "A template for generating a serene night scene of a beautiful young adult javanese woman walking by a riverside with beneath maple leaves and warm city lights.))",
+  "prompt": {
+ "scene_type": "nighttime outdoor urban riverside walkway",
+    "subject": {
+      "type": "young adult woman",
+     "age_range": "23s to early 25s", 
+     "hair": "Long, slightly wavy black-brown hair, styled in a bun and slightly loose around her face", 
+ "skin": "warm olive"
+      "position": "walking along the riverside path",
+      "clothing": {
+        "style": "elegant evening gown by jonathan anderson dress",
+        "colors": ["light beige", "soft pink",]
+      },
+      "expression_mood": "happy,calm and reflective",
+      "pose": "natural walking posture with relaxed arms"
+    },
+    "environment": {
+      "season": "spring",
+      "weather": "calm, clear night",
+      "surroundings": {
+        "water": "river reflecting city lights",
+        "trees": "Maple tree with hanging lights",
+        "petals": "falling maple leaves throughout the scene",
+        "path": "stone or tiled riverside walkway"
+      }
+    },
+    "lighting_style": {
+      "tone": "warm and romantic",
+      "light_sources": [
+        "paris city light reflections on water",
+        "warm bokeh street and bridge lights",
+        "soft ambient glow from hanging tree lights"
+      ],
+      "contrast": "balanced with soft highlights and smooth shadows"
+    },
+    "color_palette": [
+      "teal blue night sky",
+      "warm golden lights",
+      "soft maple leaves ",
+      "neutral earth tones"
+    ],
+    "camera": {
+      "shot_type": "mid-length portrait shot",
+      "angle": "eye level",
+      "lens": "50mm or 85mm,Canon EOS R5",
+      "depth_of_field": "shallow with strong bokeh in background"
+    },
+    "visual_style": {
+      "style_keywords": [
+        "cinematic",
+        "photorealistic",
+        "romantic",
+        "soft focus",
+        "bokeh-rich"
+      ],
+      "quality": "8K high detail",
+      "texture_details": [
+        "natural skin texture",
+        "detailed blossoms and petals",
+        "smooth reflective water surface"
+      ]
+    },
+    "optional_elements": {
+      "props": [
+        "small handbag",
+        "light scarf",
+        "bicycle nearby"
+      ],
+      "background_variations": [
+        "lanterns instead of fairy lights",
+        "bridge with decorative lighting",
+        "festival atmosphere"
+      ]
+    }
+  }, 
+  "negative_prompt": [
+    "crowded background",
+    "harsh lighting",
+    "grainy low-resolution",
+    "cartoon or anime style",
+    "overexposed highlights",
+    "snow or autumn leaves",
+    "daytime scene"
+  ]
+}
