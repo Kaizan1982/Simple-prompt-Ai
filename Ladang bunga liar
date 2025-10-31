@@ -1,0 +1,39 @@
+{
+  "prompt": "a portrait of a beutiful young javanese woman lying down with arms outstretched is very cheerful in a sunrise field of white wildflowers during in the morning, soft natural lighting, dreamy atmosphere, gentle backlight illuminating her hair, delicate facial features, calm and melancholic expression, warm tones and cinematic depth of field, captured with a professional lens for soft bokeh background",
+  "negative_prompt": "harsh shadows, overexposed light, distorted face, low quality, unrealistic proportions, extra limbs, cartoon style, blurry details",
+  "subject_details": {
+"identity_reference": "use reference photo",
+ "gender": "female", 
+ "age_range": "23s to early 25s", 
+  "skin": "warm olive", 
+   "hair": "long, golden brown hair was tied up in a bun, and several strands fell down her face",
+}, 
+"style": {
+    "lighting": "sunrise,morning, backlit, soft and warm",
+    "color_palette": "warm tones, beige, cream, and soft gold",
+    "mood": "happy, nostalgic, serene",
+    "focus": "portrait, shallow depth of field, bokeh background",
+    "composition": "center subject with rule of thirds framing, surrounded by delicate flowers",
+    "camera_settings": {
+      "lens": "85mm f/1.4,Canon EOS R5",
+      "aperture": "wide open for bokeh",
+      "exposure": "slightly overexposed highlights for glow effect"
+    },
+    "clothing_style": "casual, dark outerwear over light inner layer, natural fabric",
+    "environment": "outdoor meadow or field with soft white flowers",
+    "post_processing": "cinematic color grading, soft contrast, film-like tone mapping"
+  },
+text": {
+"text_element": "Judas Iscariots", 
+ "places": "bottom left corner", 
+ "font_style": "gabrilya,transparent", 
+ "text_element": "kanji carachter", 
+ "places": "bottom right corner"
+}, 
+  "output_preferences": {
+    "resolution": "high",
+    "aspect_ratio": "3:4",
+    "realism_level": "photorealistic",
+    "format": "portrait"
+  }
+}
