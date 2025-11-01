@@ -1,0 +1,84 @@
+{
+  "title": "Autumn Portrait Under Falling Leaves",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "gender": "female",
+    "age_range": "young adult 23s to early 25s",
+    "appearance": {
+      "hair": {
+        "length": "medium",
+        "style": "slightly messy, wavy",
+        "color": "brown lights", 
+        "skin": "warm olive"
+      },
+      "expression": "happy,calm, introspective",
+      "pose": "standing, facing camera with relaxed posture, arms down"
+    },
+    "clothing": {
+      "top": "cream-colored knitted sweater with a loose, cozy texture by Designer Crishtian Dior",
+      "bottom": "dark floral mini skirt, by Designer Crishtian Dior",
+      "additional_details": "soft, autumn-inspired outfit"
+    }
+  },
+  "scene": {
+    "season": "autumn",
+    "environment": "outdoors in a park surrounded by autumn foliage",
+    "background": {
+      "trees": "red, orange, and golden leaves",
+      "sky": "bright daylight with sun flares"
+    },
+    "foreground": {
+      "falling_leaves": "scattered maple leaves in motion around the subject"
+    },
+    "lighting": {
+      "type": "natural sunlight",
+      "mood": "warm, soft, dreamy",
+      "effects": "sun shining through trees, strong backlight, bokeh highlights"
+    }
+  },
+  "composition": {
+    "camera_angle": "slightly low-angle shot",
+    "framing": "waist-up portrait, centered subject",
+    "depth_of_field": "shallow — blurred background with sharp subject",
+    "focus": "subject’s face and outfit"
+  },
+  "visual_style": {
+    "palette": ["warm tones", "earthy colors", "sunlit highlights"],
+    "aesthetic_keywords": [
+      "cinematic",
+      "dreamy",
+      "soft-focus",
+      "autumn aesthetic",
+      "emotional",
+      "bokeh"
+    ],
+    "possible_styles": [
+      "cinematic photography",
+      "dreamy portrait",
+      "editorial autumn fashion shoot"
+    ]
+  },
+  "mood_and_theme": {
+    "mood": ["peaceful", "reflective", "warm", "nostalgic"],
+    "story_suggestion": "A serene moment captured during an autumn day, surrounded by falling leaves."
+  },
+  "optional_enhancements": {
+    "additions": [
+      "increase leaf motion for dynamic effect",
+      "slight lens flare enhancement",
+      "film grain for cinematic vibe"
+    ],
+}, 
+"text": {
+"style_text": "small, transparent", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "bottom left corner"
+}, 
+    "variations": [
+      "golden hour glow",
+      "rainy autumn scene",
+      "forest pathway setting"
+    ]
+  }
+}
