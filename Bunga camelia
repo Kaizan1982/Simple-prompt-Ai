@@ -1,0 +1,37 @@
+{
+  "prompt": "A beautiful portrait of a javanese  woman surrounded by soft white Camellia flowers. She has light brown hair styled in a loose, elegant bun, and she wears a cream or ivory pastel siphon dress that reflects the sun's light. The atmosphere is ethereal and romantic, with warm natural lighting and a soft, shallow depth of field that blurs the foreground blossoms into delicate white bokeh. The background is a gentle blue sky, enhancing the contrast with the white tones. The overall mood is serene, feminine, and poetic, evoking the feeling of spring and beauty.))",
+  "subject": {
+"identity_reference": "use reference photo", 
+"gender": "female", 
+"age_range": "23s to early 25s", 
+"skin": "warm brown"
+}, 
+"style": {
+    "photography": {
+      "camera_type": "portrait",
+      "lighting": "soft natural light",
+      "depth_of_field": "shallow",
+      "focus": "subject’s face",
+      "bokeh": "creamy white blossom blur"
+    },
+    "artistic": {
+      "mood": ["dreamy", "romantic", "elegant"],
+      "color_palette": ["pastel ivory", "light brownis", "soft blue", "peach tones"],
+      "composition": "subject framed by blossoms in foreground, centered composition",
+      "style_reference": ["fine art photography", "fashion editorial", "spring aesthetic"]
+    }
+  },
+"text": {
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"places": "bottom left corner", 
+ "style_text": "transparent"
+}, 
+  "parameters": {
+    "ar": "3:4",
+    "quality": "high",
+    "resolution": "8K",
+    "realism_level": "photorealistic",
+    "vibe": "soft, ethereal, graceful"
+  }
+}
