@@ -1,0 +1,38 @@
+{
+  "title": "Portrait Behind Fogged Glass",
+  "style": "8K ultra-realistic cinematic portrait",
+  "subject": {
+"description": "A man",
+"identity_reference": "use reference photo",
+"age_range": "27s to early 30s", 
+    "position": "Standing behind fogged glass",
+    "details": {
+      "hair": "Damp, falls slightly over his forehead",
+      "attire": "Half-unbuttoned white shirt, wet from mist"
+    }
+  },
+  "environment": {
+    "main_element": "Fogged glass",
+    "details": "Covered in raindrops, detailed with water trails, reflections, and soft distortion"
+  },
+  "lighting": {
+    "type": "Cool blue and dim ambient light",
+    "effect": "Illuminates his face softly"
+  },
+  "atmosphere": {
+    "tone": "Melancholic, late-night",
+    "mood": "Intimacy, solitude, quiet vulnerability",
+    "realism": "Emotional realism"
+  },
+  "cinematography": {
+    "depth_of_field": "Shallow",
+    "focus": "Gentle focus on his eyes",
+    "texture": "Subtle film grain",
+    "reference": "Like a still from a neo-noir romantic drama"
+text": {
+"style_text": "small,transparent", 
+ "text_element": "Judas Iscariots", 
+ "font": "urban shadow script", 
+ "place": "bottom left corner", 
+  }
+}
