@@ -1,0 +1,62 @@
+{
+  "subject": {
+    "identity_reference": "use reference photo",
+    "gender": "female", 
+    "age_range": "23s to early 25s",
+    "skin": "warm olive", 
+    "pose": "turning slightly over shoulder looking at camera, and with both hands as if messing up his hair.((",
+    "expression": "soft, happy, calm, dreamy",
+    "appearance": {
+      "hair_color": "lights brown",
+      "hair_style": "medium length, loose, slightly wavy",
+      "outfit": {
+        "style": "elegant, feminine",
+        "top_description": "white lace long-sleeve top or dress by designer Crishtian Dior"
+      },
+      "makeup": "natural, soft tones"
+    }
+  },
+  "environment": {
+    "setting": "outdoor garden",
+    "surroundings": "blooming yellow sunflowers",
+    "background": "soft bokeh garden with warm sunlight"
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "position": "backlit / golden hour",
+    "mood": "warm, romantic, ethereal",
+    "effects": [
+      "glowing highlights on hair",
+      "soft lens flare",
+      "dreamy haze"
+    ]
+  },
+  "color_palette": {
+    "dominant_colors": ["white", "ivory", "gold", "green"],
+    "tones": "soft, pastel, warm"
+  },
+  "composition": {
+    "camera_angle": "eye-level shot,fujifilm GFX100",
+    "framing": "close-up portrait among flowers",
+    "depth_of_field": "shallow with blurred foreground sunflowers",
+    "focus": "sharp on subject's face"
+  },
+  "style": {
+    "photography_type": "portrait photography",
+    "aesthetic": ["romantic", "ethereal", "fine art"],
+    "film_style": "soft cinematic / analog film look"
+  },
+  "optional_enhancements": {
+    "variations": [
+      "add light breeze effect",
+      "increase floral density",
+      "shift time to sunrise for cooler tones"
+    ],
+    "suitable_for": ["AI image generation", "concept art", "fashion editorials"]
+"text": {
+"text_style": "small, transparent", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "bottom left corner"
+  }
+}
