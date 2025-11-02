@@ -1,0 +1,73 @@
+{
+  "title": "Fitness Portrait of a Woman in Gym",
+  "description": "A prompt template for generating an image of a fit young woman exercising in a gym setting.",
+  "prompt": {
+    "subject": {
+      identity_reference": "use reference photo*,
+   "gender": "female",
+      "age_range": "23s to early 25s",
+      "body_type": "fit, Big breasts, toned, athletic",
+      "pose": "standing and holding dumbbells with both hands, slightly looking to the side.((",
+      "expression": "focused, happy, calm, confident",
+      "appearance_details": {
+        "hair": "light brown, long, tied in a bun with loose strands of hair",
+        "skin": "warm olive with a natural glow and light perspiration",
+        "makeup": "light natural makeup with glossy lips and subtle blush"
+      },
+      "clothing": {
+        "top": "white sports bra by designer Crishtian Dior",
+        "bottom": "fitness leggings by Crishtian Dior, and Addidas sneakers",
+        "accessories": ["thin necklace"]
+      }
+    },
+    "environment": {
+      "location": "indoor gym",
+      "background_elements": [
+        "training equipment",
+        "weights",
+        "blurred gym interior"
+      ],
+      "lighting": "soft, diffused indoor lighting with mild reflections on skin"
+    },
+    "visual_style": {
+      "camera_angle": "full body shotl, medium close-up shot",
+      "lens_and_depth": "shallow depth of field, subject in sharp focus, background blurred (bokeh)",
+      "color_tone": "neutral with warm skin tones",
+      "mood": ["energetic", "motivational", "focused"],
+      "style_references": [
+        "high-quality fitness photography",
+        "cinematic soft tones",
+        "realistic yet slightly polished aesthetic"
+      ]
+    },
+    "optional_modifiers": {
+      "variations": [
+        "change outfit color",
+        "add gym equipment interaction like lifting or stretching",
+        "different camera angles (side, back, wide shot)"
+      ],
+      "art_styles": [
+        "realistic",
+        "cinematic",
+        "photorealistic",
+        "anime-style",
+        "digital art"
+      ]
+    }
+  },
+"text": {
+"text_style": "small, transparent", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "bottom left corner"
+}, 
+  "negative_prompt": [
+    "distorted anatomy",
+    "overexposed lighting",
+    "low resolution",
+    "grainy",
+    "unnatural skin texture",
+    "excessive sweat",
+    "cluttered background"
+  ]
+}
