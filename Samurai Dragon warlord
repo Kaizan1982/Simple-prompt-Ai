@@ -1,0 +1,58 @@
+{
+  "title": "Prompt Template — Mythic Samurai Dragon Warlord",
+  "description": "A Nano Banana-optimized prompt for generating an epic fantasy samurai warlord with a mythical dragon spirit.",
+  "midjourney_prompt_template": {
+    "prompt": "<character>, <armor>, <weapons>, <dragon>, <environment>, <lighting>, <camera>, <style>",
+    "placeholders": {
+      "<character>": "mythic samurai warlord, tall, muscular, intense expression, heroic stance",
+      "<armor>": "ornate black and gold samurai armor, intricate engravings, dragon motifs, flowing dark cape",
+      "<weapons>": "dual swords, one long katana with glowing engravings, one shorter ornate blade",
+      "<dragon>": "massive serpentine dragon spirit behind the warrior, fierce open jaws, glowing blue eyes, twisting horns, swirling mystical energy",
+      "<environment>": "dark stormy mountains, ancient fortress pillars, glowing lanterns, embers in the air",
+      "<lighting>": "dramatic cinematic lighting, rim light on armor, dark moody tones",
+      "<camera>": "low-angle full-body heroic shot, dynamic composition, highly detailed",
+      "<style>": "epic fantasy concept art, ultra-realistic, high detail, 8k, volumetric atmosphere"
+    },
+    "example_prompt": "mythic samurai warlord, tall muscular warrior with an intense expression, heroic stance, ornate black and gold samurai armor with intricate engravings and dragon motifs, flowing dark cape, dual swords — one long katana with glowing engravings and one shorter ornate blade, massive serpentine dragon spirit behind him with fierce open jaws, glowing blue eyes, twisting horns and swirling mystical energy, dark stormy mountains with ancient fortress pillars and glowing lanterns, embers floating in the air, dramatic cinematic lighting, rim light on armor, low-angle full-body heroic shot, ultra-realistic epic fantasy concept art, highly detailed, 8k, volumetric atmosphere --ar 9:16 --v 6 --style raw ((",
+    "recommended_parameters": {
+      "--ar": "9:16 (poster) or 2:3 for portrait",
+      "--style": "raw (for realism) or 4c (for stylized fantasy)",
+      "--v": "6",
+      "optional": [
+        "--s 200",
+        "--q 1.5",
+        "--c 8"
+      ]
+    },
+    "variation_modules": {
+      "elemental_variants": [
+        "dragon made of fire",
+        "dragon made of lightning",
+        "ice dragon with frost mist",
+        "shadow void dragon",
+        "celestial gold spirit dragon"
+      ],
+      "theme_variants": [
+        "battle-damaged armor version",
+        "samurai standing on burning battlefield",
+        "ancient temple showdown",
+        "samurai on snowy mountain peak",
+        "ghost samurai version with ethereal armor"
+      ],
+      "style_variants": [
+        "dark souls concept art",
+        "Ghost of Tsushima cinematic style",
+        "anime fantasy illustration",
+        "Renaissance epic painting",
+        "realistic video game cinematic still"
+      ]
+    },
+"text": {
+ "text_style": "small, transparent", 
+ "text_element": "Judas Iscariots", 
+ "font": "gading retro", 
+ "place": bottom left corner"
+}, 
+    "negative_prompt": "blurry, flat lighting, cartoonish, plastic textures, distorted anatomy, low detail, washed-out colors, cluttered composition"
+  }
+}
