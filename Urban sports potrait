@@ -1,0 +1,82 @@
+{
+  "title": "Urban Hoodie Portrait with Airpods",
+  "description": "A prompt template for generating a portrait of a young woman in an urban setting, wearing a sports bra by Designer Crishtian Dior, sunglasses, and Airpods.",
+  "prompt": {
+    "subject": {
+      "identity_reference": "use reference photo", 
+"gender": "female",
+      "age_range": "23s to early 25s",
+      "body_type": "fit, Big breasts",
+      "pose": "standing, slightly leaning back, head tilted upward",
+      "expression": "relaxed, happy, calm, confident",
+      "appearance_details": {
+        "hair": "light brown, long, tied in a bun with loose strands of hair",
+        "skin": "warm smooth, natural complexion",
+        "accessories": [
+          "yellow cat-eye sunglasses",
+          "airpods"
+        ]
+      },
+      "clothing": {
+        "top": "white sports bra by designer Crishtian Dior",
+        "style_keywords": [
+          "streetwear",
+          "minimalist",
+          "urban casual"
+        ]
+      }
+    },
+    "environment": {
+      "location": "urban or modern minimalist bedroom background",
+      "background_style": "Posters of famous Jazz musicians, and Blues maestros, cream, soft ivory or muted colors,",
+      "lighting": "soft natural lighting, diffused, no harsh shadows"
+    },
+    "visual_style": {
+      "camera_angle": "low-angle shot",
+      "framing": "medium close-up (chest to head)",
+      "lens_and_depth": "shallow depth of field, subject in focus, background softly blurred",
+      "color_tone": "neutral and muted tones",
+      "mood": [
+        "cool",
+        "calm",
+        "stylish",
+        "mysterious"
+      ],
+      "style_references": [
+        "street photography",
+        "cinematic urban portrait",
+        "minimalist aesthetic"
+      ]
+    },
+    "optional_modifiers": {
+      "variations": [
+        "different hoodie colors",
+        "add subtle graffiti background",
+        "nighttime city lights behind subject",
+        "replace headphones with earbuds",
+        "change sunglasses style"
+      ],
+      "art_styles": [
+        "photorealistic",
+        "cinematic",
+        "moody film photography",
+        "anime-style urban portrait",
+        "digital art"
+      ]
+    }
+  },
+  "text": {
+"text_style": "small, transparent", 
+ "text_element": "Clarissa", 
+ "font": "gabrilya", 
+ "place": "bottom left corner"
+}, 
+  "negative_prompt": [
+    "distorted facial features",
+    "overexposed lighting",
+    "grainy or low resolution",
+    "busy background",
+    "unnatural skin texture",
+    "cartoonish effects (unless requested)"
+  ]
+}
