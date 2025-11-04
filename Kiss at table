@@ -1,0 +1,61 @@
+{
+  "style": {
+    "photography_style": "high-fashion editorial",
+    "lighting": "cinematic night lighting with subtle shadows",
+    "vibe": ["sensual", "intimate", "elegant"],
+    "camera": {
+      "shot_type": "mid-shot, straight-on angle",
+      "focus": "sharp focus on subjects"
+     "mood": "Cinematic night",
+    "lighting": "Sharp lighting",
+    "highlights": "highlights,film noir",
+    }
+  },
+  "subjects": [
+    {
+      "subject_id": 1,
+      "identity_reference": "use reference photo",
+      "gender": "female",
+      "age_range": "23s to early 25s"
+      "appearance": {
+        "hair": "long, lights brown hairstyle",
+        "makeup": "glamorous with emphasized eyes and lips",
+        "outfit": "white tube top with denim jeans"
+      },
+      "pose": "sitting at the work desk with open legs, leaning to kiss, one hand on the couple's neck and another holding her hair.(("
+    },
+    {
+      "subject_id": 2,
+      "identity_reference": "use reference photo",
+     "gender": "male",
+      "appearance": {
+        "hair": "medium length hair with a slightly tousled and slightly wet style",
+        "top": "shirtless",
+        "outfit": "denim jeans"
+      },
+      "pose": "Kneeling behind the partner while holding the woman's waist and performing a kiss.))"
+    }
+  ],
+  "composition": {
+    "framing": "centered subjects",
+    "background": "plain workspace background",
+    "contrast": "high contrast to emphasize body lines and textures"
+  },
+ "text": {
+ "text_style": "small transparent", 
+  "text_element": "Clarissa", 
+  "font": "gabrilya", 
+  "place": "bottom left corner", 
+}, 
+  "mood_keywords": [
+    "romantic",
+    "passionate",
+    "fashion-forward",
+    "artistic"
+  ],
+  "ideal_use_cases": [
+    "fashion photography AI generation",
+    "romantic photoshoot concepts",
+    "editorial art inspiration"
+  ]
+}
