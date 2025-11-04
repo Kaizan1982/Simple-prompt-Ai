@@ -1,0 +1,66 @@
+{
+  "title": "Rasta Airlines Surreal Scene",
+  "description": "A surreal, vibrant artwork featuring a jumbo jet airplane with a reggae-inspired theme flying through the sky.((",
+  "scene": {
+    "setting": "sunset sky with warm orange and pink tones",
+    "atmosphere": "whimsical, peaceful, dreamy, and imaginative",
+    "visual_style": [
+      "surrealism",
+      "vibrant colors",
+      "reggae-inspired aesthetic"
+    ]
+  },
+  "subjects": [
+    {
+      "type": "airplane",
+      "model": "jumbo jet",
+      "design": {
+        "theme": "reggae / Rastafarian colors",
+        "colors": ["green", "yellow", "red"],
+        "text": "RASTA AIRLINES",
+        "graphics": [
+          {
+            "type": "emblem",
+            "description": "Illustrated lion head on the airplane's side"
+          }
+        ]
+      }
+    }
+  ],
+  "creative_elements": {
+    "sky_symbol": {
+      "shape": "peace symbol",
+      "material": "cloud-like vapor",
+      "position": "upper right of the sky"
+    },
+    "trail_effect": {
+      "type": "surreal vapor trail",
+      "description": "Instead of standard jet exhaust, the airplane leaves behind a large whimsical stream of dense green cannabis foliage formed by stylized, repeating cannabis leaf patterns"
+    }
+  },
+  "camera": {
+    "angle": "low-angle shot",
+    "framing": "airplane centered and ascending",
+    "lighting": "golden-hour warm lighting"
+  },
+  "text": {
+ "text_style": "transparent", 
+  "text_element": "Judas Iscariots", 
+  "font": "gabrilya", 
+  "places": "bottom left corner"
+}, 
+  "mood": [
+    "uplifting",
+    "light-hearted",
+    "creative",
+    "peaceful"
+  ],
+  "output_preferences": {
+    "resolution": "high",
+    "rendering_style_options": [
+      "3D render",
+      "digital illustration",
+      "cinematic lighting"
+    ]
+  }
+}
