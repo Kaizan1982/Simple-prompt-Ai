@@ -1,0 +1,42 @@
+{
+  "imageType": "Fashion Editorial Portrait",
+  "subject": {
+    "description": "Stylish woman",
+    "identity_reference": "use reference photo",
+    "gender": "female", 
+  "age_range": "23s to early 25s"
+  "hair": long, lights brown", 
+  "skin": "warm olive"
+"attire": {
+      "outerwear": "white or ivory dress by designer Crishtian Dior",
+    },
+    "action": "Sitting at an outdoor café table",
+   "pose": "enjoying a cup of warm espresso, looking happy"
+    "props": [
+      "Cup of espresso,box cigarete,Luxury women's bags by Crishtian Dior"
+    ]
+  },
+  "setting": {
+    "location": "Outdoor café",
+    "time": "Night",
+    "environment": {
+      "pavement": "Wet",
+      "reflections": "Golden reflections from streetlights"
+    }
+  },
+  "style": {
+    "mood": "Cinematic night city",
+    "lighting": "Sharp lighting",
+    "highlights": "highlights,film noir",
+    "composition": "Magazine-cover composition"
+  }, 
+  "text": {
+ "text_style": "small transparent", 
+  "text_element": "Clarissa", 
+  "font": "gabrilya", 
+  "place": "bottom left corner", 
+  "vertical_text": "chinese carachter", 
+  "text_style": "small transparent", 
+  "place": "top side right corner"
+}
+}
