@@ -1,0 +1,33 @@
+{
+  "prompt": "A serene outdoor scene in an ancient moss-covered forest with a person sitting on the ground. The forest floor and large rocks are blanketed in vibrant green moss, and the area is shaded by gnarled, twisting trees with dense foliage. The person, dressed casually in a light gray hoodie, dark pants, and a navy blue beanie, is sitting cross-legged while enjoying nature, with his head slightly tilted upwards he smoked cannabis by holding it with his thumb and index finger, underneath was a sheet of paper filled with dried cannabis, matches and a glass of warm sweet tea. The lighting is soft and natural, filtering gently through the forest canopy, creating a calm, peaceful, and slightly mystical atmosphere. Fallen leaves and small twigs are scattered on the ground, adding texture and realism. The scene evokes a quiet, introspective mood, with an emphasis on connection to nature and solitude.))",
+  "style": {
+    "lighting": "soft natural light",
+    "mood": "peaceful, introspective, natural",
+    "color_palette": "earthy greens, browns, and muted grays",
+    "camera_angle": "slightly elevated, medium shot",
+    "depth_of_field": "moderate focus on subject, slightly blurred background",
+    "realism_level": "highly realistic, documentary-style photography"
+  },
+  "subject": {
+    "identity_reference": "use reference photo", 
+   "age_range": "27s to early 30s", 
+  "main": "person sitting in mossy forest",
+    "clothing": {
+      "top": "light gray hoodie",
+      "bottom": "dark pants",
+      "accessory": "navy blue beanie with PROMPTOPIA.ID written on the side"
+    },
+    "activity": "sitting and using hands to work on small object or packaging"
+  },
+  "environment": {
+    "location_type": "forest",
+    "vegetation": "moss-covered rocks, twisted trees, scattered leaves",
+    "atmosphere": "tranquil, natural, damp woodland ambiance"
+  }, 
+text": {
+"text_style": "small and transparent", 
+"text_element": "Judas Iscariots", 
+"font_use": "urban shadow script", 
+"place": "bottom left corner"
+}
+}
