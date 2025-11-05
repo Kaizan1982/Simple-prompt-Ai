@@ -1,0 +1,54 @@
+{
+  "prompt": "Create photorealistic Digital artwork A futuristic cyberpunk girl standing in a narrow urban alleyway, wearing a black oversized hoodie with glowing purple graffiti-style designs, layered metal chains, and a choker. She has glowing violet eyes, short black and purple hair with luminous strands, and a glowing butterfly accessory near her ear. The lighting is neon and moody, with reflections from nearby cyberpunk city lights. Her expression is confident and mysterious. The atmosphere feels edgy and stylish, blending streetwear fashion and sci-fi aesthetics.",
+  
+  "style": {
+    "genre": "Cyberpunk, Futuristic, Street Fashion",
+    "mood": ["moody", "edgy", "urban", "futuristic"],
+    "lighting": ["neon", "soft backlight", "cool blue and purple tones"],
+    "camera": {
+      "angle": "medium close-up",
+      "focus": "sharp on subject, blurred background",
+      "depth_of_field": "shallow"
+    },
+    "environment": {
+      "setting": "urban alleyway with graffiti walls",
+      "details": ["metal pipes", "dim lights", "reflections on wet pavement"]
+    }
+  },
+  
+  "character": {
+    "identity_reference": "use reference photo",
+    "gender": "female",
+    "age_range": "23s to early 25s",
+    "appearance": {
+      "hair_color": "black with glowing purple highlights",
+      "eye_color": "glowing violet",
+      "skin_tone": "light",
+      "makeup": "subtle with focus on glowing eyes"
+    },
+    "clothing": {
+      "top": "oversized hoodie with glowing designs",
+      "accessories": ["black cap with purple symbols", "metal chains", "earrings with glowing accents", "choker"],
+      "color_palette": ["black", "purple", "blue", "neon highlights"]
+    },
+    "pose_expression": {
+      "pose": "hand near face, slightly tilted head",
+      "expression": "calm, confident, mysterious"
+    }
+  },
+  
+  "artist_reference": "art style inspired by Artozuki, digital painting, ultra-detailed, photorealistic with anime influence",
+  
+  "quality": {
+    "camera_lens": "Canon EOS R5", 
+   "resolution": "8k",
+    "render": "ultra-detailed, cinematic lighting, soft depth of field, high contrast"
+  },
+"text": {
+"text_style": "small and transparent", 
+ "text_element": "Judas Iscariots", 
+  "font_use": "urban shadow script", 
+  "place": "bottom left corner"
+  }, 
+  "negative_prompt": "no distortion, no extra limbs, no blur, no text watermark, no logo, no low-resolution, no disfigured features, no artifacts"
+}
