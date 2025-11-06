@@ -1,0 +1,60 @@
+{
+  "prompt_template": {
+    "title": "Night Street Portrait of a beautiful javanese Woman",
+    "description": "A cinematic portrait of a young javanese beautiful woman posing in front of a bright canned beverage cooler box flashing lit street stall at night. The atmosphere is moody, romantic, and softly illuminated by neon lights.",
+    "subject": {
+      "identity_reference": "use reference photo", 
+       "gender": "female",
+      "age": "23s to early 25s",
+     "hair": "long, light brown hair was wavy, pulled into a bun and falling slightly over her face", 
+      "pose": "turned slightly to the side, looking over shoulder toward the camera, with both hands raised as if she was fixing her bun.)(",
+      "expression": "soft, calm, and alluring gaze",
+      "clothing": {
+        "top": "white, strappy, low-cut tank top",
+        "bottom": "dark denim jeans, partially visible",
+        "style": "modern and casual, with a slightly sensual aesthetic"
+      },
+      "accessories": ["small earrings"]
+    },
+    "environment": {
+      "location": "urban night market or street food area",
+      "lighting": {
+        "type": "neon ambient lighting",
+        "color_palette": ["warm orange", "cool green", "soft white highlights"],
+        "mood": "dreamy and cinematic"
+      },
+      "background_elements": [
+        "blurred neon signs",
+        "food stall with colorful signage",
+        "soft bokeh from city lights"
+      ]
+    },
+    "camera": {
+      "angle": "eye-level, slightly close-up",
+      "lens": "wide aperture (f/1.4–f/2.0) for shallow depth of field",
+      "focus": "sharp on face and eyes, blurred background",
+      "composition": "subject centered, upper body framed"
+    },
+    "style": {
+      "photography_type": "portrait",
+      "color_tone": "warm and muted tones",
+      "aesthetic": ["cinematic", "moody", "soft focus", "film-style lighting"],
+      "post_processing": "smooth warm olive skin tones, soft glow, gentle contrast"
+    },
+  "text": {
+  "text_style": "small and transparent", 
+  "text_element": "Judas Iscariots", 
+  "font": "urban shadow script", 
+   "place": "bottom left corner"
+    }, 
+    "keywords": [
+      "night photography",
+      "neon lights",
+      "soft portrait",
+      "cinematic lighting",
+      "urban aesthetic",
+      "bokeh background",
+      "romantic atmosphere"
+    ]
+  }
+}
