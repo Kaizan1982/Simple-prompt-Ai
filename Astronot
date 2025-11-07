@@ -1,0 +1,88 @@
+{
+  "PromptDetails": {
+    "Title": "Nostalgic Astronaut Portrait",
+    "MainDescription": "A young javanese woman with long wavy caramel brown hair, wearing a slightly worn orange and white astronaut suit, sits thoughtfully inside a vintage-style spacecraft cockpit. She gently turns her head toward the camera, her eyes filled with nostalgia and emotion. Behind her, the blue Earth glows softly against the vast dark of space. The warm golden light illuminates the cabin, revealing aged metal textures, flickering control panels, and subtle dust particles floating in the air. The scene is captured in a cinematic composition with ultra-realistic lighting, strong depth, and a nostalgic, editorial photography aesthetic.",
+    "VisualElements": {
+      "Character": {
+        "identity_reference": "use reference photo",
+"Gender": "Female",
+        "Age_range": "23s to early 25s",
+        "Hair": "Long, wavy, caramel brown",
+        "Expression": "Nostalgic and emotional",
+        "Pose": "Sitting thoughtfully, head turned gently toward the camera.(",
+        "Clothing": "Slightly worn orange and white astronaut suit"
+      },
+      "Setting": {
+        "Location": "Vintage spacecraft cockpit",
+        "Lighting": "Warm golden tones with cinematic contrast",
+        "Environment": "Aged metal textures, flickering control panels, subtle dust particles",
+        "Background": "Blue Earth softly glowing in space through a large window"
+      },
+      "Composition": {
+        "FrameOrientation": "Vertical",
+        "Style": "Cinematic, editorial, ultra-realistic",
+        "Tone": "Nostalgic and emotionally evocative",
+        "DepthOfField": "Shallow to moderate for cinematic depth"
+      }
+    },
+    "TechnicalDetails": {
+      "RenderingStyle": [
+        "Cinematic photography",
+        "Magazine editorial aesthetic",
+        "Ultra-realistic lighting and depth"
+      ],
+      "ColorTone": "Warm, soft contrast with subtle vintage feel",
+      "Quality": "High-resolution, filmic realism",
+      "CameraAndLensSpecifications": {
+        "CameraType": "Full-frame digital cinema camera (e.g., ARRI Alexa Mini LF or Canon R5C)",
+        "Lens": "85mm f/1.4 portrait lens",
+        "FocalLength": "85mm",
+        "Aperture": "f/1.4",
+        "ISO": "400",
+        "ShutterSpeed": "1/125 sec",
+        "DepthOfField": "Shallow, focused on the subject’s face with soft background bokeh",
+        "LightingSetup": {
+          "KeyLight": "Warm diffused key light positioned camera left, simulating cabin sunlight reflection",
+          "FillLight": "Low-intensity fill for subtle shadow lift",
+          "Backlight": "Soft blue backlight from Earth glow outside the window",
+          "PracticalLights": "Flickering control panels and instrument lights in the cabin"
+        },
+        "ColorGrading": "Cinematic LUT with warm highlights, slightly desaturated shadows, and subtle film grain"
+      }
+    }
+  },
+ "text": {
+ 'text_style": "small and transparent", 
+ "text": "Judas Iscariots", 
+ "font": "Rachelasti", 
+ "place": "bottom left corner"
+}, 
+  "NegativePrompt": {
+    "Avoid": [
+      "blurry",
+      "low quality",
+      "distorted face",
+      "extra limbs",
+      "deformed hands",
+      "poorly drawn eyes",
+      "disfigured",
+      "out of frame",
+      "overexposed",
+      "underexposed",
+      "unrealistic texture",
+      "cartoon",
+      "anime",
+      "watermark",
+      "text",
+      "logo",
+      "duplicate body parts",
+      "grainy",
+      "noisy background",
+      "oversaturated colors"
+    ]
+  },
+  "IntendedUse": {
+    "Application": "AI image generation, cinematic concept art, or editorial photo visualization",
+    "FormatPreference": "Vertical composition suitable for editorial, poster, or magazine layout"
+  }
+}
