@@ -1,0 +1,45 @@
+{
+  "narrativeIntent": {
+    "message": "Sultry LA glamour ignites ravenous West Coast desire",
+    "emotion": "Fierce confidence, sun-kissed seduction, Hollywood heat",
+    "concept": "High-fashion editorial of a sexy LA woman owning the city, timeless beauty pulsing with golden-hour passion and urban allure"
+  },
+  "subject": {
+    "identity_reference": "use reference photo"
+   "identity": "Gorgeous woman in her late 20s, LA siren incarnate",
+    "appearance": "Tanned golden skin glowing like sunset, hourglass curves, sun-streaked beach waves tumbling wild",
+    "pose": "Provocative strut against Hollywood sign, one hand tossing hair, hips swaying with dangerous rhythm.()",
+    "expression": "Smoldering eyes locked on camera, full lips parted in sultry challenge, radiating untamed power.)"
+  },
+  "wardrobe": {
+    "outfit": "Slinky gold mini-dress hugging every curve, plunging neckline, thigh-high slit flashing leg by designer Crishtian Dior",
+    "style": "LA celebrity-sexy, red-carpet meets beach goddess",
+    "details": "Shimmering fabric catching sunset fire, strappy gold heels sinking into Hollywood dirt, oversized sunglasses perched low"
+  },
+  "scene": {
+    "environment": "Hollywood Hills at golden hour, iconic Hollywood sign blazing behind",
+    "elements": "Palm trees silhouetted, city lights twinkling below, dusty trail winding through hills",
+    "tone": "Fiery orange-pink sunset, electric LA energy, intoxicating heat waves"
+  },
+  "camera": {
+    "angle": "Dynamic three-quarter shot capturing stride and skyline",
+    "lens": "50mm for intimate compression, city sprawling dramatically",
+    "focus": "Laser-sharp on her fiery gaze and glistening curves, dreamy bokeh on distant LA skyline"
+  },
+  "lighting": {
+    "type": "Golden hour magic + rim light flare",
+    "direction": "Sunset backlighting her silhouette, warm glow kissing skin",
+    "effects": "Lens flares sparking off gold dress, sunbeams dancing in hair"
+  },
+  "fx": {
+    "atmosphere": [
+      "Heat haze rippling like desire, golden dust motes swirling",
+      "Cinematic lens flare exploding from setting sun"
+    ]
+ "text": {
+"text_style": "small and transparent", 
+ "text_element": "Clarissa", 
+  "font": "gabrilya", 
+   "place": "bottom left corner"
+ }
+}
