@@ -1,0 +1,61 @@
+{
+  "Canvas": {
+    "Orientation": "Vertical",
+    "Resolution": {
+      "Width": 2160,
+      "Height": 3840
+    },
+    "Composition": {
+      "Type": "3-panel collage",
+      "Arrangement": "One full-image panel and two triptych panels",
+      "Panel_Style": "Random but harmonious sizes",
+      "Visual_Theme": "Unified modern aesthetic with balanced proportions"
+    }
+  },
+  "Subject": {
+    "Main_Character": {
+      "identity_reference": "use reference photo",
+      "hair": "long, slightly wavy light brown hair, tied in a bun and slightly falling over her face", 
+      "Description": "Young woman, approximately 25 years old, ultra-realistic and cinematic style, full-body shot",
+      "Height": "3.3 inches relative to composition scale",
+      "Pose": "Walking half-turned with the body slightly turned, photo model style, with arms swinging casually.))",
+      "Facial_Reference": {
+        "Match_Percentage": "100%",
+        "Details": "Face, and body structure must exactly match the reference image"
+      },
+      "Expression": "Neutral to focused, natural gaze direction",
+      "Hairstyle": "long, slightly wavy light brown hair, tied in a bun and slightly falling over her face.",
+      "Clothing": {
+        "Top": "wearing luxury clothes and bags by designer Cristian Dior",
+        "Footwear": "high heels by Crishtian Dior"
+      }
+    }
+  },
+  "Environment": {
+    "Location": "new york city streets",
+    "Lighting": "Soft cinematic daylight, slightly diffused shadows",
+    "Tone": "Clean, modern, elegant"
+  },
+  "Camera": {
+    "Shot_Type": "Full-body",
+    "Angle": "Eye-level perspective",
+    "Motion": "Mid-walk dynamic, slight motion blur for realism",
+    "Focus": "Primary focus on character, background softly blurred"
+  },
+  "Art_Direction": {
+    "Style": "Ultra-realistic cinematic photography",
+    "Mood": "Modern, confident, effortlessly stylish",
+    "Color_Palette": "Neutral whites, soft grays, subtle contrast with clothing print"
+  },
+  "Output": {
+    "Format": "Vertical 4K image",
+    "Use_Case": "Digital art collage or concept visualization"
+}, 
+text": {
+"vertical_text_style": "small and transparent", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "bottom left corner"
+
+  }
+}
