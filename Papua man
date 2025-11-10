@@ -1,0 +1,40 @@
+{
+  "description": "8K ultra-HD cinematic portrait of a 23-year-old dashing and handsome Papua boy with light stubble and long messy dark hair tied with a red-yellow-green headband. Low-angle dramatic action pose, cannabis stick in right hand, exhaling smoke upward. Head tilted back, eyes narrowed. Rugged, moody lighting, smoke rising above him. Background softly blurred with cinematic atmosphere.)(",
+  "attributes": {
+    "quality": "8K ultra-HD",
+    "style": "cinematic portrait",
+    "subject": {
+      "age": 23s,
+      "gender": "boy",
+      "build": "dashing and handsome",
+      "facial_hair": "light stubble"
+    },
+    "hair": {
+      "length": "long",
+      "style": "messy",
+      "color": "dark",
+      "accessory": "headband"
+    },
+    "pose": {
+      "angle": "Low-angle",
+      "type": "dramatic action pose",
+      "head": "tilted back",
+      "eyes": "narrowed"
+    },
+    "action": {
+      "item": "cannabis stick in right hand",
+      "activity": "exhaling smoke upward"
+    },
+    "environment": {
+      "lighting": "Rugged, moody",
+      "effects": "smoke rising above him",
+      "background": "softly blurred",
+      "atmosphere": "cinematic"
+   }, 
+"text": {
+  "text_style": "vertical, little and transparent", 
+   "tex_element": "JudasIscariots",
+  "place": "bottom left corner" 
+  }
+  }
+}
