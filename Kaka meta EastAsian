@@ -1,0 +1,16 @@
+{
+  "prompt": "Cinematic portrait of a youg EastAsian woman with a long, lights brown styled hair standing near a window. She wears a dark top under a modern black military-style jacket with a hood that is not being worn. Soft diffused window light outlines her face, casting subtle shadows. The background fades into deep blue and amber hues with visible film grain and texture, including a slight double reflection in the window glass. The mood is introspective, melancholic, and dreamlike, evoking a Blue Velvet atmosphere. Velvet indigo and amber dusk color grading, 35mm film look, shallow depth of field, cinematic lighting.",
+  "style": "cinematic, 35mm film, shallow depth of field, velvet indigo and amber dusk color grading",
+  "focus": "portrait of middle-aged woman, soft diffused window light, facial details preserved",
+  "lighting": "soft, cinematic, window light, subtle shadows",
+  "composition": "medium close-up, introspective pose, window included",
+  "background": "deep blue and amber hues, slight double reflection, visible film grain",
+  "mood": "melancholic, introspective, dreamlike, cinematic",
+  "ar": "3:2",
+  "version": 6,
+  "style_mode": "raw",
+  "chaos": 10,
+  "quality": 2,
+  "seed": 200,
+  "uplight": true
+}
