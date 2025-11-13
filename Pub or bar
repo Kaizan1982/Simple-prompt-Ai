@@ -1,0 +1,53 @@
+{
+  "scene_description": "A moody, cinematic portrait of a beautiful woman",
+  "subject": {
+    "identity_reference": "use reference photo",
+    "type": "young woman",
+    "age": "early 25s",
+    "features": {
+      "hair": "dark long medium,wavy hair"
+    },
+    "attire": "simple white crop top with the image of marlyn monroe",
+    "position": "seated at a dark wooden table.)("
+  },
+  "action": {
+    "primary": "holding a lit cannabis",
+    "secondary": "exhaling smoke",
+    "effect": "smoke is dramatically highlighted"
+  },
+  "environment": {
+    "setting": "dimly lit, shadowy room",
+    "foreground_elements": [
+      "dark glass",
+      "soju bottles",
+      "mineral bottles"
+    ]
+  },
+  "lighting": {
+    "style": "high-contrast, low-key",
+    "key_light": {
+      "type": "strong, focused",
+      "color": "amber/warm",
+      "illuminates": [
+        "his face",
+        "the rising smoke"
+      ]
+    },
+    "background_light": {
+      "color": "deep emerald green/cyan glow"
+    },
+    "shadows": "dramatic shadows"
+  },
+  "style": {
+    "medium": "35mm film",
+    "aesthetic": "vintage cinematic style",
+    "quality": "high quality photography",
+    "details": "ultra-detailed"
+}, 
+"text": {
+"text_style": "little and transparent", 
+"font": "gabrilya", 
+"text_element": "Clarissa", 
+"place": "bottom left corner"
+  }
+}
