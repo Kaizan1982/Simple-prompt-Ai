@@ -1,0 +1,41 @@
+{
+  "scene": {
+    "title": "The Broken Rose",
+    "type": "Cinematic portrait",
+    "setting": {
+      "location": "In front of a small flower stall",
+      "time": "Rainy afternoon",
+      "weather": "Rain",
+      "details": {
+        "background": "Flower stall’s colorful bouquets blur under the falling rain",
+        "ground": "Puddles reflecting muted daylight",
+        "air": "Gentle motion of raindrops"
+      }
+    },
+    "subject": {
+      "identity_reference": "use reference photo",
+      "description": "A beautiful woman",
+      "age_range": "23s to early 25s", 
+      "position": "Walking",
+      "appearance": {
+        "clothes": "Soaked",
+        "shoes": "Soaked",
+        "hair": "long light brown hair was tied in a bun,fell slightly to her face and Dripping wet",
+        "face": "Raindrops running down face",
+        "coat": "Raindrops were running down her white shirt with the top two buttons undone by designer Crishtian Dior,she had a big breasts."
+      },
+      "action": "Holding a broken rose",
+      "object": {
+        "item": "Broken rose",
+        "details": "Dark brown, drooping petals"
+      }
+    },
+    "atmosphere": {
+      "mood": ["melancholic", "poetic"],
+      "style": {
+        "focus": "Soft focus",
+        "lighting": "Natural light"
+      }
+    }
+  }
+}
