@@ -1,0 +1,86 @@
+{
+  "title": "The Ball",
+  "scene": {
+    "status": "in full swing",
+    "atmosphere": "Challenging other times",
+    "duration": "The beau monde will not subside until morning."
+  },
+  "participants": [
+    {
+      "identity_reference": "use refrence photo", 
+      "group": "Couples",
+      "action": "waltz.)("
+    },
+    {
+      "group": "Hussars",
+      "attributes": ["seductive", "brave"]
+    },
+    {
+      "group": "Ladies",
+      "attributes": ["timid glances"]
+    },
+    {
+      "group": "Musicians",
+      "detail": "bows are tired"
+    }
+  ],
+  "attire_and_appearance": [
+    {
+      "item": "Waists",
+      "description": "suspiciously narrow"
+    },
+    {
+      "item": "Shoes",
+      "description": "a ballerina's instep"
+    },
+    {
+      "item": "Skirts of dresses by Crishtian Dior",
+      "style": "France",
+      "sound": "rustle",
+      "impression": "About something girlish, something unique"
+    },
+    {
+      "item": "Eyes",
+      "description": "The sparkle of eyes"
+    },
+    {
+      "item": "Jewelry",
+      "description": "the shimmer of diamonds"
+    },
+    {
+      "item": "Hair",
+      "description": "Waves, lights brown, curls"
+    },
+    {
+      "item": "Shoulders",
+      "description": "The dazzling radiance of maiden shoulders"
+    }
+  ],
+  "sensory_details": [
+    {
+      "type": "heat",
+      "source": "melted wax"
+    },
+    {
+      "type": "shimmer",
+      "source": "melted wax"
+    }
+  ],
+  "concluding_metaphor": {
+    "image": "The secret footnote of ellipsis",
+    "action": "Inserted into poetic speech..."
+}, 
+"text": {
+"text_style": "little, transparent and elgant", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "in the bottom left corner"
+}, 
+"camera": {
+"lens": "canon EOS R5"
+}, 
+mood": {
+"cinematic", 
+"soft, bokeh"
+  }
+}
