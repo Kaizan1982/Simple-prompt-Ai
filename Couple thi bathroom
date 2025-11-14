@@ -1,0 +1,71 @@
+{
+  "image_prompt": {
+    "type": "hyperrealistic full-body couple portrait",
+    "subject": {
+      "description": "A young woman",
+      "identity_reference": "use reference photo", 
+      "age_range": "23s to early 25s", 
+      "pose": "Standing indoors, facing a mirror. Her arms are raised as she adjusts her hair.(",
+      "reflection": "Her reflection is visible at the bottom edge of the frame.",
+      "hair": {
+        "style": "messy, loosely tied bun",
+        "details": "soft face-framing strands of hair falling on both sides"
+      },
+      "makeup": {
+        "look": "natural, flushed",
+        "details": ["rosy cheeks", "glossy lips"]
+      }
+    },
+    "attire": {
+      "item": "white satin mini dress transparent",
+      "fit": "sleek, fitted",
+      "texture": "gentle folds and a subtle sheen that reflects the ambient light"
+    },
+   "subject": {
+   "description": "A young man", 
+   "age_range": "28s to early 30s", 
+   "pose": "Standing behind the woman by embracing her waist, undressed, her face sticks to her cheeks, and looks in the mirror", 
+  "reflection": "Her reflection is visible at the bottom edge of the frame.",
+  "hair": {
+   "style": "short black hair a little messy and a bit wet",
+        "details": "soft face-framing strands of hair falling on both sides"
+      },
+  "attire": {
+      "item": "Black casual cotton pants",
+      "fit": "sleek, fitted",
+      "texture": "gentle folds and a subtle sheen that reflects the ambient light"
+    },
+    "environment": {
+      "setting": "A warm, softly lit room",
+      "background": {
+        "description": "smooth wooden wardrobe panels",
+        "details": "adding vertical lines and a muted, earthy tone"
+      },
+      "foreground": {
+        "description": "countertop with a polished, textured stone surface",
+        "details": "a few blurred objects adding realism and depth"
+      }
+    },
+    "lighting": {
+      "description": "warm, golden, and cinematic",
+      "atmosphere": "cozy, slightly vintage"
+    },
+    "style": {
+      "mood": "candid, playful, and effortlessly elegant",
+      "aesthetic": "dreamy, intimate, lifestyle-photography",
+      "effects": ["slight grain texture", "soft glow", "warm color grading"],
+      "realism": [
+        "ultra-detailed skin texture",
+        "realistic fabric highlights",
+        "precise shadows",
+        "natural reflections"
+      ]
+  }, 
+"text": {
+"text_style": "little, transparentand elegant", 
+"text_element": "Clarissa", 
+"font": "gabrilya", 
+"place": "in the bottom left corner"
+    }
+  }
+}
